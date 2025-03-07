@@ -3,13 +3,14 @@ from googleapiclient.discovery import build
 import os
 from dotenv import load_dotenv
 import json
+from flask_cors import CORS
 
 # Load API Key from .env file
 load_dotenv()
 API_KEY = os.getenv("API_KEY")
 
 app = Flask(__name__)
-
+CORS(app)
 class Function:
     def search_file(api_key, folder_id, filename):
         """
