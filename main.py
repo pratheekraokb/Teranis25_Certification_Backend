@@ -67,7 +67,7 @@ def verify_certificate(code):
     if len(code) == 10:
         # Load data from data.json
         data = Function.load_data()
-        folder_id = "1zQq-d9ykmhI7vbhW5ls5idaCgU4bahUK"
+        folder_id = "1Ocp47xb9vmcpTf7wAAUKjs2NxirodmcF"
         # Check if the code exists in the data.json
         if code in data:
             try:
