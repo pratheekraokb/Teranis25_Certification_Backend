@@ -1,0 +1,812 @@
+{
+    "DIP2DJQ9M1": {
+        "name": "Nisha",
+        "email": "nm6351814@gmail.com",
+        "phone": 9188648867,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIP7U22TR5": {
+        "name": "Nandana Ganesh",
+        "email": "nandana14231@gmail.com",
+        "phone": 7994504214,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPRXJQ59T": {
+        "name": "SREYA NAIR V",
+        "email": "nairvsreya@gmail.com",
+        "phone": 8921846350,
+        "department": "CSE",
+        "semester": "S2 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPDS3MHCF": {
+        "name": "Soya Devassia",
+        "email": "soyadevassia@gmail.com",
+        "phone": 8943823960,
+        "department": "CSE",
+        "semester": "S2 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPYMGQLXE": {
+        "name": "Anusree m",
+        "email": "sreeanusree192@gmail.com",
+        "phone": 8281690185,
+        "department": "CSE",
+        "semester": "S2 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPAAHQGIV": {
+        "name": "Vaishnav.c",
+        "email": "Vaishnav00c@gmail.com",
+        "phone": 9495677197,
+        "department": "CSE",
+        "semester": "S2 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPJU8LAWK": {
+        "name": "SAJJAD P",
+        "email": "sajjadsajjadp29@gmail.com",
+        "phone": 9745448902,
+        "department": "CSE",
+        "semester": "S2 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPRROAI73": {
+        "name": "Abhinav N R",
+        "email": "abhinavnr08@gmail.com",
+        "phone": 9778188809,
+        "department": "CSE",
+        "semester": "S2 CS C",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPW8DO9C3": {
+        "name": "Naseem Ashraf",
+        "email": "Naseemashraf337@gmail.com",
+        "phone": 8136931505,
+        "department": "CSE",
+        "semester": "S6 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPPGZZRFI": {
+        "name": "Vaishakh O V",
+        "email": "vaishakhov2003@gmail.com",
+        "phone": 9544736726,
+        "department": "CSE",
+        "semester": "S6 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPKT3Z1KB": {
+        "name": "DIVYASHREE M T",
+        "email": "divyashree.vts@gmail.com",
+        "phone": 9746241153,
+        "department": "CSE",
+        "semester": "S6 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPRCAKNWQ": {
+        "name": "Rahul Govind TV",
+        "email": "rahulgovind100@gmail.com",
+        "phone": 9847544358,
+        "department": "CSE",
+        "semester": "S2 CS C",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPZGB8DN2": {
+        "name": "Akhilnath G S",
+        "email": "akhilnathgs2006@gmail.com",
+        "phone": 8921143616,
+        "department": "CSE",
+        "semester": "S2 CS C",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPJ31VQKM": {
+        "name": "Jeevan K",
+        "email": "jeevnk25@gmail.com",
+        "phone": 7356314250,
+        "department": "CSE",
+        "semester": "S2 CS C",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPQA2L05S": {
+        "name": "Arjun V C",
+        "email": "mator3600@gmail.com",
+        "phone": 7012494086,
+        "department": "CSE",
+        "semester": "S2 CS C",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPVLKXXAK": {
+        "name": "Aswanth Satheesan",
+        "email": "aswanthsatheesh432@gmail.com",
+        "phone": 7994304212,
+        "department": "CSE",
+        "semester": "S6 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPFIUUO8C": {
+        "name": "S Akhil",
+        "email": "akhilsanal2007@gmail.com",
+        "phone": 7012578519,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPZTP5XGB": {
+        "name": "Mayoogha Dileep",
+        "email": "mayooghadileep2006@gmail.com",
+        "phone": 8075137879,
+        "department": "CSE",
+        "semester": "S2 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIP9I6JQKE": {
+        "name": "Shaima Zubaida",
+        "email": "shaimazubaida2005@gmail.com",
+        "phone": 9778743446,
+        "department": "CSE",
+        "semester": "S4 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIP34L2J8B": {
+        "name": "Nadiya Nasrin M",
+        "email": "nadiyanasrin328@gmail.com",
+        "phone": 6235829445,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPOQJ0LSF": {
+        "name": "Alakananda D S",
+        "email": "alakanandads1@gmail.com",
+        "phone": 7907451918,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPLO2PITA": {
+        "name": "M A KADEEJA TAMANNA",
+        "email": "kadeejathamanna95@gmail.com",
+        "phone": 7510530255,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPM9NXBLB": {
+        "name": "Sana Fathima M",
+        "email": "sanafathima7376@gmail.com",
+        "phone": 8547949342,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPBIUQ8CP": {
+        "name": "Alvira Ruchbah",
+        "email": "alviraruchbah123@gmail.com",
+        "phone": 9526942235,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPLSG6BI4": {
+        "name": "Ashmika.S",
+        "email": "ashmikash005@gmail.com",
+        "phone": 6238462216,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPE78MNFA": {
+        "name": "SAYA K",
+        "email": "sayashabu@gmail.com",
+        "phone": 7907271055,
+        "department": "CSE",
+        "semester": "S2 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPPZRS0QG": {
+        "name": "Fathima Shiril Areekat",
+        "email": "fathimashirilareekat@gmail.com",
+        "phone": 7593051317,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPBNDQIP4": {
+        "name": "Sreehari E",
+        "email": "sreeh7391@gmail.com",
+        "phone": 7907620934,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPJK6QV45": {
+        "name": "Shinu suresh K",
+        "email": "shinusuresh6@gmail.com",
+        "phone": 7025933870,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPGNCYM1Z": {
+        "name": "Ananthu B Raj",
+        "email": "ananthubraj123@gmail.com",
+        "phone": 7009383158,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPYFCZPXL": {
+        "name": "Nandakishor",
+        "email": "nandunandakishor345@gmail.com",
+        "phone": 9778129217,
+        "department": "CSE",
+        "semester": "S4 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPK9ILIJO": {
+        "name": "Mohammad Fadhil",
+        "email": "mfadhilap@gmail.com",
+        "phone": 8547625571,
+        "department": "CSE",
+        "semester": "S6 CS B",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPL8X0WE3": {
+        "name": "Fidha M S",
+        "email": "fidha.chembirika@gmail.com",
+        "phone": 9526831786,
+        "department": "CSE",
+        "semester": "S8 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIP5K3CJB7": {
+        "name": "Shreyas sk",
+        "email": "shreyassk2005@gmail.com",
+        "phone": 7510797186,
+        "department": "ECE",
+        "semester": "S2 EC",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "DIPTG2O4FK": {
+        "name": "Jasil P",
+        "email": "jasilputhiyakath@gmail.com",
+        "phone": 8281530011,
+        "department": "CSE",
+        "semester": "S2 CS A",
+        "event_name": "Debugging In Python",
+        "event_date": "27/02/2025"
+    },
+    "FCCIYW8RMB": {
+        "name": "Abdul rahiman Muhaz",
+        "email": "armuhaz999@gmail.com",
+        "phone": 9567573576,
+        "department": "CSE",
+        "semester": "S4 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCZLWZ5HP": {
+        "name": "Abhinav Krishna",
+        "email": "abhinavkrishna53809@gmail.com ",
+        "phone": 9778362356,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCZ79YPJ4": {
+        "name": "Adarsh Bhaktha K",
+        "email": "33333adarsh@gmail.com",
+        "phone": 8848367637,
+        "department": "CSE",
+        "semester": "S4 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCEXCJ6TX": {
+        "name": "Ahmed Isuru Riswan ",
+        "email": "ahmedisururiswan@gmail.com",
+        "phone": 6238831374,
+        "department": "CSE",
+        "semester": "S8 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCHEX3DIL": {
+        "name": "Anagha  A S",
+        "email": "anaghaa070@gmail.com",
+        "phone": 8921396112,
+        "department": "CSE",
+        "semester": "S6 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCYU2TLQ3": {
+        "name": "Aswanth satheesan",
+        "email": "aswanthsatheesh432@gmail.com",
+        "phone": 6238685175,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCC4HKBLPA": {
+        "name": "Aswathi AjithKumar ",
+        "email": "aswathiajith4@gmail.com",
+        "phone": 7012425036,
+        "department": "CSE",
+        "semester": "S2 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCWJYIBYR": {
+        "name": "Divyashree M T",
+        "email": "divyashree.vts@gmail.com",
+        "phone": 9746241153,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCK20K71O": {
+        "name": "Fidha M S",
+        "email": "fidha.chembirika@gmail.com",
+        "phone": 9526831786,
+        "department": "CSE",
+        "semester": "S8 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCA5JLG81": {
+        "name": "Gayana S",
+        "email": "gayanasajan@gmail.com",
+        "phone": 7012692599,
+        "department": "CSE",
+        "semester": "S2 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCNQDCA3H": {
+        "name": "Harigovind P ",
+        "email": "harimkd07@gmail.com",
+        "phone": 8281410929,
+        "department": "CSE",
+        "semester": "S6 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCCF3NZF3": {
+        "name": "Harikrishna R",
+        "email": "haritechx@gmail.com",
+        "phone": 8590676791,
+        "department": "CSE",
+        "semester": "S4 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCC78LP19Z": {
+        "name": "Junaid m",
+        "email": "junum9789@gmail.com",
+        "phone": 8590958329,
+        "department": "CSE",
+        "semester": "S6 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCC6DKU9UE": {
+        "name": "Mohammad Fadhil Nouhar A P ",
+        "email": "mfadhilap@gmail.com",
+        "phone": 8547625571,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCF11Y7MF": {
+        "name": "Mohammed Nafih P A",
+        "email": "nafihmohammed005@gmail.com",
+        "phone": 8078401436,
+        "department": "EEE",
+        "semester": "S2 EEE",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCJVUE3WZ": {
+        "name": "Mohammed Sinan K H",
+        "email": "instasinan123@gmail.com",
+        "phone": 8139863252,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCLF6CGBR": {
+        "name": "Muhammed Mahshook",
+        "email": "muhmdmahshook@gmail.com",
+        "phone": 9747152077,
+        "department": "CSE",
+        "semester": "S6 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCC9H2EEXV": {
+        "name": "Nandakishor AS",
+        "email": "nandunandakishor345@gmail.com",
+        "phone": 9778129217,
+        "department": "CSE",
+        "semester": "S6 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCC8C2EVWX": {
+        "name": "Neenu Josey ",
+        "email": "noonu7025@gmail.com",
+        "phone": 7025808618,
+        "department": "CSE",
+        "semester": "S4 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCW08W5EV": {
+        "name": "Nuva dhin ik",
+        "email": "nuvadhin@gmail.com",
+        "phone": 7560817184,
+        "department": "CSE",
+        "semester": "S2 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCZERO88Q": {
+        "name": "Sahala C",
+        "email": "sahalaabdulla176@gmail.com",
+        "phone": 7510346176,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCC05JIQLF": {
+        "name": "Sreya N D",
+        "email": "sreyanellithanath@gmail.com ",
+        "phone": 9207511677,
+        "department": "CSE",
+        "semester": "S6 CSE-A",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCCJGBS0ZE": {
+        "name": "Srijith K",
+        "email": "srijith.prime@gmail.com",
+        "phone": 9744504738,
+        "department": "CSE",
+        "semester": "S4 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "FCC07UNMF9": {
+        "name": "Vaishakh O V",
+        "email": "vaishakhov710@gmail.com",
+        "phone": 9544736726,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Fast Coding in C",
+        "event_date": "27/02/2025"
+    },
+    "SFC3UQZKVD": {
+        "name": "Adarsh Bhaktha K",
+        "email": "33333adarsh@gmail.com",
+        "phone": 8848367637,
+        "department": "CSE",
+        "semester": "S4 CSE-A",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCJAH1IPG": {
+        "name": "Ayshath Azmiya shiri",
+        "email": "azmiyashiri22@gmail.com",
+        "phone": 7994403887,
+        "department": "CSE",
+        "semester": "S8 CSE-B",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCYP4DH4G": {
+        "name": "Fidha M S",
+        "email": "fidha.chembirika@gmail.com",
+        "phone": 9526831786,
+        "department": "CSE",
+        "semester": "S8 CSE-A",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCHVZ9LIG": {
+        "name": "Harikrishna R",
+        "email": "haritechx@gmail.com",
+        "phone": 8590676791,
+        "department": "CSE",
+        "semester": "S4 CSE-B",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFC15I7RER": {
+        "name": "Junaid m",
+        "email": "junum9789@gmail.com",
+        "phone": 8590958329,
+        "department": "CSE",
+        "semester": "S6 CSE-A",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCIMG4TB2": {
+        "name": "Khadeejath Shahbana",
+        "email": "shahbanashahbana47@gmail.com",
+        "phone": 9526634364,
+        "department": "CSE",
+        "semester": "S8 CSE-B",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFC10D1JEZ": {
+        "name": "Mohammad Fadhil Nouhar A P ",
+        "email": "mfadhilap@gmail.com",
+        "phone": 8547625571,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCB352GP4": {
+        "name": "Muhammed Mahshook ",
+        "email": "muhmdmahshook@gmail.com",
+        "phone": 9747152077,
+        "department": "CSE",
+        "semester": "S6 CSE-A",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCPN1RWHK": {
+        "name": "Nandakishor A S",
+        "email": "nandunandakishor345@gmail.com",
+        "phone": 9778129217,
+        "department": "CSE",
+        "semester": "S6 CSE-A",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCLFLGIPK": {
+        "name": "Nandana Ganesh ",
+        "email": "nandana14231@gmail.com",
+        "phone": 7994504214,
+        "department": "CSE",
+        "semester": "S2 CSE-A",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCLRENEPD": {
+        "name": "Naseem Ashraf",
+        "email": "Naseemashraf337@gmail.com",
+        "phone": 8136931505,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCA0F6649": {
+        "name": "Nived C K",
+        "email": "achuchakkara19@gmail.com",
+        "phone": 6238419753,
+        "department": "IT",
+        "semester": "S2 IT",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCWJETM3C": {
+        "name": "Sahala c",
+        "email": "sahalaabdulla176@gmail.com",
+        "phone": 7510346176,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCLVZ8VM5": {
+        "name": "Shaima Zubaida",
+        "email": "shaimazubaida2005@gmail.com",
+        "phone": 9778743446,
+        "department": "CSE",
+        "semester": "S4 CSE-A",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFCRW0X4L2": {
+        "name": "Srijith K",
+        "email": "srijith.prime@gmail.com",
+        "phone": 9744504738,
+        "department": "CSE",
+        "semester": "S4 CSE-B",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFC3UYXAB8": {
+        "name": "Suryaprabha Nayak ",
+        "email": "prabhasurya1903@gmail.com ",
+        "phone": 8921310733,
+        "department": "CSE",
+        "semester": "S8 CSE-B",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SFC4EFBD9T": {
+        "name": "Vaishakh O V ",
+        "email": "vaishakhov710@gmail.com",
+        "phone": 9544736726,
+        "department": "CSE",
+        "semester": "S6 CSE-B",
+        "event_name": "Shuffle Coding",
+        "event_date": "27/02/2025"
+    },
+    "SPC6ZG5RI2": {
+        "name": "ALWIN BENNY",
+        "email": "alwinbenny72@gmail.com",
+        "phone": 8590639473,
+        "department": "CSE",
+        "semester": "S8 CS A",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCY6TJAC8": {
+        "name": "ARJUN.V.C",
+        "email": "mator3600@gmail.com",
+        "phone": 7012494086,
+        "department": "CSE",
+        "semester": "S2 CS C",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCAGHY601": {
+        "name": "BINIL P",
+        "email": "binilp24@gmail.com",
+        "phone": 6282069833,
+        "department": "CSE",
+        "semester": "S6 CS A",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCRMEEW7L": {
+        "name": "FIDHA  M S",
+        "email": "fidha.chembirika@gmail.com",
+        "phone": 9526831786,
+        "department": "CSE",
+        "semester": "S8 CS A",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCVW2Z2S0": {
+        "name": "JACOB GEORGE",
+        "email": "jacobgeorge9605@gmail.com",
+        "phone": 9605980433,
+        "department": "CSE",
+        "semester": "S8 CS B",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCI3NFTW5": {
+        "name": "JUNAID M",
+        "email": "junum9789@gmail.com",
+        "phone": 8590958329,
+        "department": "CSE",
+        "semester": "S6 CS A",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCWRJJTLK": {
+        "name": "MOHAMMAD FADHIL",
+        "email": "mfadhilap@gmail.com",
+        "phone": 7907007104,
+        "department": "CSE",
+        "semester": "S6 CS B",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCPAFQ9R1": {
+        "name": "MOHAMMAD SINAN K.H",
+        "email": "instasinan123@gmail.com",
+        "phone": 8281847046,
+        "department": "CSE",
+        "semester": "S6 CS B",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPC8QSGPBW": {
+        "name": "MOHEMMED NIHAL. A A",
+        "email": "mnaaksd2@gmail.com",
+        "phone": 8891619145,
+        "department": "CSE",
+        "semester": "S2 CS C",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCQLGKII6": {
+        "name": "MUHAMMAD MASHOOK",
+        "email": "muhmdmahshook@gmail.com",
+        "phone": 9747152077,
+        "department": "CSE",
+        "semester": "S6 CS A",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCNFM5L6H": {
+        "name": "PRATHEEK RAO K B ",
+        "email": "pratheekmulleria@gmail.com",
+        "phone": 8078724204,
+        "department": "CSE",
+        "semester": "S8 CS B",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCEV0FEYW": {
+        "name": "SRIJITH K",
+        "email": "srijith.prime@gmail.com",
+        "phone": 9744504738,
+        "department": "CSE",
+        "semester": "S4 CS B",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPCTEHX4P9": {
+        "name": "VAISHAKH O V",
+        "email": "vaishakhov710@gmail.com",
+        "phone": 9544736726,
+        "department": "CSE",
+        "semester": "S6 CS B",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    },
+    "SPC479NZLK": {
+        "name": "VIDHATH N SHETTY",
+        "email": "vidhathnshetty@gmail.com",
+        "phone": 9061939488,
+        "department": "CSE",
+        "semester": "S4 CS B",
+        "event_name": "Swap Coding",
+        "event_date": "28/02/2025"
+    }
+}
