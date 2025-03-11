@@ -69,6 +69,7 @@ def verify_certificate(code):
         # Load data from data.json
         data = Function.load_data()
         folder_id = "1Ocp47xb9vmcpTf7wAAUKjs2NxirodmcF"
+        
         # Check if the code exists in the data.json
         if code in data:
             try:
@@ -78,7 +79,7 @@ def verify_certificate(code):
             return jsonify({
                 "message": "valid code", 
                 "user_details": data[code],
-                "certificate_details": certificate_details
+                "certificate_details": certificate_details,
                 })
         else:
             return jsonify({"message": "invalid code"}), 400  # Entry not found
